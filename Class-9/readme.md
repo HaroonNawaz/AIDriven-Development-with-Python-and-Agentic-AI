@@ -322,8 +322,10 @@ This project successfully demonstrates:
 
 ## Screenshots
 
-The project includes visual demonstrations:
-- **gui calculator.png** - Screenshot of the GUI application in action
+The project includes visual demonstrations of the working GUI application:
+
+### GUI Calculator Application
+![GUI Calculator](./gui%20calculator.png)
 
 ## Author
 

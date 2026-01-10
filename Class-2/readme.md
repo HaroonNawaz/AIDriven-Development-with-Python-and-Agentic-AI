@@ -36,6 +36,10 @@ This folder contains introductory assignments on Claude Code and Speckit fundame
 3. Explore `cookbook_claude.md` for practical examples
 4. Apply learnings to your own projects
 
+## Assignment Screenshot
+
+![Class 2 Assignment](./Class_2%20Assignment.png)
+
 ## Notes
 
 This is a foundational module focusing on understanding tools and frameworks before diving into complex development tasks. Emphasis is placed on reading, understanding documentation, and learning best practices.

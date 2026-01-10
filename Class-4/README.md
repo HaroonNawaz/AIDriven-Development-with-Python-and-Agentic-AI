@@ -206,11 +206,19 @@ After working through this module, you should:
 
 ## Practice Examples
 
-The folder includes screenshots showing:
-- **Practice Work-1.png** - Skill maker demonstration
-- **Note_generator skill.png** - Notes generator capability
-- **Flash cards .png** - Flashcard tool output
-- **LLM quiz.png** - Quiz tool interface
+The folder includes screenshots showing the tools in action:
+
+### Skill Maker Demonstration
+![Practice Work 1](./Practice%20Work-1.png)
+
+### Notes Generator Capability
+![Notes Generator Skill](./Note_generator%20skill.png)
+
+### Flashcard Tool Output
+![Flashcards](./Flash%20cards%20.png)
+
+### Quiz Tool Interface
+![LLM Quiz](./LLM%20quiz.png)
 
 ## Related Technologies
 

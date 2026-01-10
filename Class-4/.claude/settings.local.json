@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir /s \"C:\\D-Drive\\PanaVersity\\P300\\Al-P300\\Class-4\\.claude\\skills\\skill-maker\")",
+      "Bash(dir /B:*)",
+      "Bash(echo:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir /s /b /ad \"C:\\D-Drive\\PanaVersity\\P300\\Al-P300\\AIDriven-Development-with-Python-and-Agentic-AI\")",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nfeat: Add comprehensive README documentation for all class folders\n\n- Create detailed README.md for Class-2: Speckit & Claude Code Fundamentals\n  - Covers basic concepts, getting started, and key learning areas\n  \n- Create comprehensive README.md for Class-3: Agent Skills & Study Notes Creator\n  - Documents the study notes creator skill implementation\n  - Includes project structure and learning outcomes\n  \n- Create extensive README.md for Class-4: Advanced Skills & Learning Tools\n  - Covers three major tools: Skill Maker, Notes Generator, Flashcards/Quiz\n  - Includes detailed documentation of each tool''s capabilities\n  \n- Create detailed README.md for Class-9: Professional Calculator with CLI & GUI\n  - Documents calculator project with comprehensive features\n  - Includes installation, usage, testing, and code quality information\n  - Covers all assignment challenges with solutions\n\n- Update .gitignore with comprehensive exclusion rules\n  - Add Python cache directories (.mypy_cache, .pytest_cache)\n  - Add build artifacts and virtual environment directories\n  - Include testing, coverage, and IDE-specific files\n  - Add OS-specific and backup files\n\nAll README files provide clear structure, usage instructions, and documentation for pushing to git repository.\nEOF\n)\")",
+      "Bash(git commit:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

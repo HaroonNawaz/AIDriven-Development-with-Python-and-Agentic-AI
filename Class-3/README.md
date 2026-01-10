@@ -74,6 +74,10 @@ Class-3/
 3. **Note-Taking Strategies**: Different approaches to capturing and organizing information
 4. **Framework Integration**: How skills integrate with Claude Code environment
 
+## Assignment Screenshot
+
+![Class 3 Assignment](./Class-3%20Assignment.png)
+
 ## Getting Started
 
 1. Read `CLAUDE.md` to understand project configuration

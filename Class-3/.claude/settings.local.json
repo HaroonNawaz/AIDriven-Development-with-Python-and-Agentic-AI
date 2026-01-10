@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"C:\\D-Drive\\PanaVersity\\P300\\Al-P300\\Class-3\\.claude\\skills\\study-notes-creator\")",
+      "Bash(dir:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
