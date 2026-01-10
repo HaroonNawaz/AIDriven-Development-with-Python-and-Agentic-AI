@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "cookbook_claude.md"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

@@ -1,0 +1,107 @@
+# Python dependencies & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+ENV/
+.venv/
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+*.egg-info/
+dist/
+build/
+*.egg
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.pydevproject
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+Thumbs.db
+.gitkeep
+
+# API keys & sensitive files
+.env
+.env.local
+*.key
+*.pem
+secrets.json
+credentials.json
+
+# Jupyter notebooks (if not needed)
+.ipynb_checkpoints/
+*.ipynb
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.hypothesis/
+*.cover
+
+# Type checking
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Build artifacts
+*.so
+*.o
+*.c
+site-packages/
+lib/
+Scripts/
+
+# Project-specific cache & temporary files
+*.tmp
+*.log
+*.bak
+.specify/
+history/
+*.spec
+
+# Package manager lock files (if not using them)
+# Uncomment if you don't want to track lock files
+# uv.lock
+# poetry.lock
+# Pipfile.lock
+
+# Temporary test files
+test_results/
+.results/
+
+# IDE specific
+.pylintrc
+.flake8
+setup.cfg
+
+# Generated files
+*.pyc
+*.pyo
+*.pyd
+
+# Mac OS
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+*.exe
+*.dll
+*.lnk
+
+# Backup files
+*.backup
+*~
