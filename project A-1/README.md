@@ -12,16 +12,7 @@ Professional Python skills for automating critical enterprise architecture analy
 
 **[▶ Watch on Loom](https://www.loom.com/embed/20a5f98a1c264097a5872e2cced4cf65)** - See all three skills in action
 
-> **If you prefer embedded video:** Copy the HTML below into your markdown viewer that supports embedded content:
-> ```html
-> <iframe src="https://www.loom.com/embed/20a5f98a1c264097a5872e2cced4cf65"
->         width="100%"
->         height="400"
->         frameborder="0"
->         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
->         allowfullscreen>
-> </iframe>
-> ```
+
 
 ---
 
